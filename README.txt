@@ -1,0 +1,1 @@
+This is Bernhard's first git project!
